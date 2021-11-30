@@ -6,14 +6,10 @@ tags:
   - simple-post
   - blog
 ---
-
-
-
-
 This month I went through some of the workshops and modules by Edinburgh Innovation - the Enterprise Foundation Programme. The main idea was to refine the project's value proposition and validate it.
 
 [Pitching presentation](https://uoe-my.sharepoint.com/:p:/g/personal/s2006146_ed_ac_uk/EdsnWsi7L7VFseh1RwkPegEBR2SZuhV_zVToD29xDlmQCg?e=bl2BLJ) - based on the principle of hook - problem - solution - CTA.
 
 Additional research
 
-I have been foing through journals about PIM (personal information management), tab use, refinding of information online.
+I have been going through journals about PIM (personal information management), tab use, refinding of information online.
