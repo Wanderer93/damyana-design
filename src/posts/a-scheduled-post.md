@@ -7,3 +7,7 @@ tags:
   - blog
 ---
 This is the main question for my final project.
+
+Additional research
+
+I have been going through journals about PIM (personal information management), tab use, refinding of information online.
