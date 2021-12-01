@@ -12,8 +12,6 @@ This month I went through some of the workshops and modules by Edinburgh Innovat
 
 [Business model canvas](https://app.validatestartup.com/bmcs/2679), personas.
 
-
-
 ## Methodology
 
 I would like to approach the project as a product design, development and launch practice. Making sure I'm solving a real problem for a specific group of users, prototype, test and develop a MVP.
@@ -21,14 +19,13 @@ I would like to approach the project as a product design, development and launch
 A **browser extension** (or desktop app) that implements:
 
 \- task based browsing - separate tasks (collections - function like a browser window) within a workspace (work/leisure/study sets of tasks.)\
-- saves tabs\
-- syncs between devices (using Firefox/Chrome's standard bookmarking and syncing system so no separate functionality would need to be built)
+
+* saves tabs\
+* syncs between devices (using Firefox/Chrome's standard bookmarking and syncing system so no separate functionality would need to be built)
 
 **Key feature** that is different from other solutions:
 
 \- gamified workflow to motivate people to close the gap between current and ideal PIM practices. Use behaviour change design (serious games, etc.) 
-
-
 
 ## Challenges
 
@@ -38,8 +35,14 @@ Considerations - sharing links seems to be important. Explore possible implement
 
 Does this help solve the problem or add to the browsing clutter with another tool? Need to integrate with existing file management practices (1) and user mental models.
 
+Narrow down audience and test closely with users, iterating.
+
+Might have to narrow down the scope and only create a MVP of the gamification elements. 
+
+Some of the research journals are based on small sample sets or are plainly older, which is worth taking into consideration.
 
 
-Bibliography
+
+## Bibliography
 
 1 Keeping found things found on the web
