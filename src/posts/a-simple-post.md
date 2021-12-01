@@ -18,7 +18,7 @@ This month I went through some of the workshops and modules by Edinburgh Innovat
 
 I would like to approach the project as a product design, development and launch practice. Making sure I'm solving a real problem for a specific group of users, prototype, test and develop a MVP.
 
-A **browser extension** (or desktop app?) that implements:
+A **browser extension** (or desktop app) that implements:
 
 \- task based browsing - separate tasks (collections - function like a browser window) within a workspace (work/leisure/study sets of tasks.)\
 - saves tabs\
