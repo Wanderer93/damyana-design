@@ -20,7 +20,7 @@ A **browser extension** (or desktop app) that implements:
 
 \- task based browsing - separate tasks (collections - function like a browser window) within a workspace (work/leisure/study sets of tasks.)\
 
-* saves tabs\
+* saves tabs
 * syncs between devices (using Firefox/Chrome's standard bookmarking and syncing system so no separate functionality would need to be built)
 
 **Key feature** that is different from other solutions:
@@ -40,8 +40,6 @@ Narrow down audience and test closely with users, iterating.
 Might have to narrow down the scope and only create a MVP of the gamification elements. 
 
 Some of the research journals are based on small sample sets or are plainly older, which is worth taking into consideration.
-
-
 
 ## Bibliography
 
