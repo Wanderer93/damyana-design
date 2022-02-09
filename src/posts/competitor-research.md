@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Competitor research
 date: 2022-01-29T11:06:01.238Z
 ---
-## Pocket 
+## Pocket
 
 > "I have them. I ignore them." - person on Reddit, commenting on saved links and articles in Pocket.
 
@@ -30,12 +30,7 @@ Independent solution. Moodboard/online space to save links, text, screenshots.
 * no structure in place
 * aims to replace moodboard, bookmark manager, note-taking tools, etc
 
-
-
-
-
-##  \
-Workona
+## Workona
 
 Task-based browsing. Basically perfect at what it does.
 
@@ -66,8 +61,6 @@ Task-based browsing. Basically perfect at what it does.
 
 *Image taken from https://betterprogramming.pub/my-9-must-have-chrome-browser-extensions-for-increased-developer-productivity-6188f7561a09*
 
-
-
 * requires sorting through each tab
 * great UI/UX
 * crashes a lot
@@ -87,13 +80,11 @@ Task-based browsing. Basically perfect at what it does.
 
 
 
-Duolingo
+# Duolingo
 
 ![duolingo screenshot](/images/duolingo.png "duolingo screenshot")
 
 *Photo from pcmag.com*
-
-
 
 # Habitica
 
@@ -105,4 +96,6 @@ Duolingo
 * initially overwhelming interface for some users
 * doesn't take into account user's mental models, customization preferences. Preset workflow.
 
-Superbetter
+
+
+# Superbetter
