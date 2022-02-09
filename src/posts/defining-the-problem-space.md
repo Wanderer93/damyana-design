@@ -18,20 +18,20 @@ Browsing problems, too many tabs
 * people forget to read their bookmarks - hypothesis that needs further testing
 * people aren't good at predicting future actions (cognitive bias), and predicting which information they'll need in the future
 * organizing and sorting PI (personal information) takes up a significant amount of cognitive power
-* people prefer to browse new information rather than information they've already seen/saved
-* re-finding using URL auto complete or browser navigations seems to have a lower cognitive cost than opening and sorting bookmarks.
-* Existing built-in browser tools seem to have a different mental model than what people who use the browser have (every individual creates their own systems for remembering items)
-* Some designers/ entrepreneurs don't percieve to have a tabs problem specifically, but fragmentation of digital information and problems refinding it, too much expended time and focus. Relating to work projects - different version files, agreements.
-* Collaborative link-sharing. Deciding on and organizing a shared information space is harder, because people have different mental models and preferences for keeping the info.
-* People start using bookmarking and tab saving tools, then stop using them. (Can't form a habit) Don't really use built-in browser features like Groups. (learning curve/mental model mismatch. they already have their own methods, like remembering words, or bookmarks with custom icon folders, or ordering the current tabs in a specific order that Groups changes)
-* Dragging each new tab into a collection is annoying for people.
+* people **prefer to browse new information** rather than information they've already seen/saved
+* re-finding using URL auto complete or browser navigations seems to have a **lower cognitive cost** than opening and sorting bookmarks.
+* Existing **built-in browser tools** seem to have a **different mental model** than what people who use the browser have (every individual creates their own systems for remembering items)
+* Some designers/ entrepreneurs don't percieve to have a tabs problem specifically, but **fragmentation of digital information** and problems refinding it, too much expended time and focus. Relating to work projects - different version files, agreements.
+* **Collaborative link-sharing.** Deciding on and organizing a shared information space is harder, because people have different mental models and preferences for keeping the info.
+* People start using bookmarking and tab saving tools, then **stop using them**. (Can't form a habit) Don't really use built-in browser features like Groups. (learning curve/mental model mismatch.Tthey already have their own methods, like remembering words, or bookmarks with custom icon folders, or ordering the current tabs in a specific order that Groups changes)
+* **Dragging each new tab into a collection** is annoying for people.
 
 Some suggested solutions. Some are from a journal, others based on my user research or general cognitive psychology findings:
 
-* highlight reel of bookmarks - link that were really hard to find, automatically detected by AI depending on time spent, number of searches.
-* "out of sight, out of mind" - periodically showing old saved bookmarks on browser open, empty tab or webapp dashboard. Rewarding for opening, reading them or archiving.
-* customizing content - with personalized image "tiles" for each item. (further ideas I have - visualizing link collections in different possible views - tree, with sites spent more time on being represented appearing larger; ...).
-* task-based browsing - Sailboat, Workona.
+* **highlight reel of bookmarks** - link that were really hard to find, automatically detected by AI depending on time spent, number of searches.
+* **"out of sight, out of mind"** - periodically showing old saved bookmarks on browser open, empty tab or webapp dashboard. Rewarding for opening, reading them or archiving.
+* **customizing content** - with personalized image "tiles" for each item. (further ideas I have - visualizing link collections in different possible views - tree, with sites spent more time on being represented appearing larger; ...).
+* **task-based browsing** - Sailboat, Workona.
 
 Further facts:
 
@@ -81,16 +81,26 @@ Ideally, I want to create a tool that stays out of the way, doesn't add to the i
 
 The features of the product are limited by the scope outline above. 
 
-References *(edit and make H. style)*
 
-[Actionable Gamification: Beyond Points, Badges, and Leaderboards](https://www.goodreads.com/book/show/25416321-actionable-gamification), Yu-Kai-Chou, 2015.
 
-Designing for Behaviour Change, Stephen Wendel.
+## References 
 
-“I Thought You Would Show Me How to Do It" - Studying and Supporting PIM Strategy Changes
+Sweeten, G., Sillence, E. and Neave, N., 2018. Digital hoarding behaviours: Underlying motivations and potential negative consequences. 
 
-(?) Understanding Changes in Mental Workload during Execution of Goal-Directed Tasks and Its Application for Interruption Management\
-https://dl.acm.org/doi/10.1145/1314683.1314689
+Chou, Y., 2015. *Actionable Gamification: Beyond Points, Badges, and Leaderboards*. Octalysis.
 
-Distribution of Cognitive Load in Web Search\
-https://onlinelibrary.wiley.com/doi/epdf/10.1002/asi.21385
+Wendel, S., 2020. *Designing for Behavior Change: Applying Psychology and Behavioral Economics*. 2nd ed. O'Reilly Media.
+
+Evéquoz, Florian & Lalanne, Denis. (2009). “I Thought You Would Show Me How to Do It"-Studying and Supporting PIM Strategy Changes. 
+
+
+
+
+
+
+
+## Bibliography
+
+Gwizdka, J., 2010. Distribution of cognitive load in Web search. *Journal of the American Society for Information Science and Technology*, 61(11), pp.2167-2187.
+
+Bailey, B. and Iqbal, S., 2008. Understanding changes in mental workload during execution of goal-directed tasks and its application for interruption management. *ACM Transactions on Computer-Human Interaction*, 14(4), pp.1-28.
