@@ -3,6 +3,18 @@ layout: layouts/post.njk
 title: Competitor research
 date: 2022-01-29T11:06:01.238Z
 ---
+Pocket - 
+
+"I have them. I ignore them."
+
+* people generally use it in combination with a tool like One Tab
+* integrated with Firefox 
+* recommended reading list
+* search through saved webpage text, saved access if original source is removed
+* read saved links on ereader later
+* confusing tagging or tag search
+
+\- \
 Workona - found this late in my research
 
 * pinned tab of web app (instead of opening in a new tab) with accompanying extension
