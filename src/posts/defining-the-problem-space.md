@@ -41,7 +41,7 @@ Further facts:
 * they also have success being very well organized in digital games
 * women are more likely to percieve a gap between their current and ideal PIM practices
 * people keep tabs open because they don't want to lose information, as reminders for tasks to do
-* people in a negative mood are more likely to create deep, granular folder hierarchies for PIM management. Whereas people in a positive mood will create shallower hierarchies with more items in them.
+* people in a negative mood are more likely to create deep, granular folder hierarchies for PIM management. Whereas people in a positive mood will create shallower hierarchies with more items in them. (add reference)
 * around 15% of people in a study used their bookmarks to refind saved items, almost exclusively bookmarks visible within the top bar
 * browsing doesn't offer the same sort of hierarchical filing system for bookmarks, like the desktop does for local files.
 * (? double-check, be specific) development of tabs and advanced browser navigation features have decreased bookmark use??
@@ -81,9 +81,7 @@ Ideally, I want to create a tool that stays out of the way, doesn't add to the i
 
 The features of the product are limited by the scope outline above. 
 
-
-
-## References 
+## References
 
 Sweeten, G., Sillence, E. and Neave, N., 2018. Digital hoarding behaviours: Underlying motivations and potential negative consequences. 
 
@@ -93,13 +91,23 @@ Wendel, S., 2020. *Designing for Behavior Change: Applying Psychology and Behavi
 
 Evéquoz, Florian & Lalanne, Denis. (2009). “I Thought You Would Show Me How to Do It"-Studying and Supporting PIM Strategy Changes. 
 
+Jones, W., Bruce, H. and Dumais, S., 2001, October. Keeping found things found on the web. In *Proceedings of the tenth international conference on Information and knowledge management* (pp. 119-126).
 
+Voit, K., Andrews, K. and Slany, W., 2009, November. Why personal information management (PIM) technologies are not widespread. In *PIM Workshop, ASIS&T* (Vol. 2009, pp. 60-64).
 
-
+Chang, J.C., Hahn, N., Kim, Y., Coupland, J., Breneisen, B., Kim, H.S., Hwong, J. and Kittur, A., 2021, May. When the tab comes due: challenges in the cost structure of browser tab usage. In *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems* (pp. 1-15).
 
 
 
 ## Bibliography
+
+
+
+
+
+
+
+Ljungstrand, P. and Holmquist, L.E., 1999, May. WebStickers: using physical objects as WWW bookmarks. In *CHI'99 Extended Abstracts on Human Factors in Computing Systems* (pp. 332-333).
 
 Gwizdka, J., 2010. Distribution of cognitive load in Web search. *Journal of the American Society for Information Science and Technology*, 61(11), pp.2167-2187.
 
