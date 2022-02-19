@@ -46,7 +46,14 @@ Started creating a prototype in Balsamiq.
 **Metric** - *30% less tabs opened on average. Measured through self-report or detection? - might not work. The prototype isn't working with real data.*\
 *??? self-reported browsing calmness? (1 to 10 scale)*
 
-It's worth considering making the **next prototype in HTML/CSS/JS** - so it's possible to work with Chrome or Firefox bookmarks API and pull random bookmarks from a folder. Content will be a critical part of validating the value proposition.
+
+
+Considering data is a critical part of validating the value proposition,\
+I can build the **next prototype** with:
+
+* **HTML/CSS/JS** - so it's possible to work with Chrome or Firefox bookmarks API and pull random bookmarks from a folder. Content will be a critical part of validating the value proposition.
+* **Framer** - It can pull live data, including from APIs\
+  https://www.framer.com/support/using-framer/live-data/
 
 
 
