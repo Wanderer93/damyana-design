@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: title
+metaTitle: Swiss style graphic design and creating user friendly interfaces
 metaDesc: Grids and swiss design
 date: 2022-04-13T20:36:54.337Z
 ---
