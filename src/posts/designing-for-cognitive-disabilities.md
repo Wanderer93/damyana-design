@@ -11,8 +11,6 @@ Some of the concepts were already familiar from [Mindful Design](https://www.goo
 
 On a sidenote, a piece of information that completely surprised me was that poverty affects people's cognitive capabilities and imposes a measurable cognitive load. (Nesterak, 2022) (Riley, 2019) I.e. financial pressures leave "less mental resources for the cognitive tasks, and lead to diminished performance" (Nesterak, 2022).
 
-
-
 ## Takeaways
 
 * cognitive disabilities - 1billion out of 8billion people have them
@@ -34,8 +32,9 @@ On a sidenote, a piece of information that completely surprised me was that pove
 
 Several rounds of sketching, quick feedback or testing where possible.
 
-Looking into existing patterns\
-- 
+Looking into existing patterns (Harley, 2022)
+
+Removing all unnecessary info.
 
 
 
