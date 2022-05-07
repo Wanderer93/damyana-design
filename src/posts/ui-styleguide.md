@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: UI Styleguide
+title: Visual styleguide
 socialImage: /images/1.png
 date: 2022-05-07T08:20:21.264Z
 ---
