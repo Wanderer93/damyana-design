@@ -5,16 +5,14 @@ date: 2022-05-08T19:03:15.534Z
 ---
 One of the key requirements for the project is low cognitive load imposed by the interface. That's why I:
 
-1) I researched different UI patterns.\
-2) Based my components off of popular design libraries (Material Design, Carbon IBM, Shopify Polaris). 
+1. I researched different UI patterns.
+2. Based my components off of popular design libraries (Material Design, Carbon IBM, Shopify Polaris). 
 
-![](/images/screenshot-2022-05-08-at-21-18-08-overview-components-atlassian-design-system.png)
+![Atlassian design system components](/images/screenshot-2022-05-08-at-21-18-08-overview-components-atlassian-design-system.png "Atlassian design system components")
 
-![](/images/screenshot-2022-05-08-at-21-07-05-cards-lightning-design-system.png)
+![Salesforces' Lightning design system component - card](/images/screenshot-2022-05-08-at-21-07-05-cards-lightning-design-system.png "Salesforces' Lightning design system component - card")
 
-![](/images/screenshot-2022-05-08-at-21-18-58-cards.png)
-
-
+![Material design system component - card](/images/screenshot-2022-05-08-at-21-18-58-cards.png "Material design system component - card")
 
 ## Bibliography
 
