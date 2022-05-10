@@ -34,7 +34,7 @@ Two options for **adding clarity, user control and ease to the EXPLORE** action 
 1. Adding a clearer, simpler EXPLORE call-to-action on the homepage. The individual links and active goals collection are already visibe there.
 2. Adding a page for the EXPLORE action. With overview of the available articles and better visibility and control.
 
-Using the Crazy Eights technique, I sketched multiple ideas.
+Using the Crazy Eights technique, I sketched multiple ideas for a possible EXPLORE page (see 2. above)
 
 ![](/images/2022-05-10-11-50_page_1.jpg)
 
@@ -45,8 +45,6 @@ I'm always going back to my initial requirements - as seen with competitors like
 Mapping out requirements (user actons and behavioural interventions) and features also allowed me a clearer view of possible actions for each screen.
 
 ![](/images/desktop-1.png)
-
-
 
 Bibliography
 
