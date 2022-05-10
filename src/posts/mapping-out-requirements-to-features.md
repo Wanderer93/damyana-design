@@ -17,18 +17,22 @@ That's why I needed to clarify the
 ![](/images/requirements-to-features.png)
 
 This helped me add an onboarding sequence where people\
-- pick workspaces (task-based browsing spaces. It's somewhat like opening a window for each of your activities - work tasks, cooking recipes, travel research).\
-- pick a goal for a workspace (i.e. an Apprentice Chef goal - read 5 saved recipes and get a reward, get points/gems which you can exchange for objects for your Reward Corner).
 
-Visually, it would look like this:
+* pick workspaces (task-based browsing spaces. It's somewhat like opening a window for each of your activities - work tasks, cooking recipes, travel research).\
+* pick a goal for a workspace (i.e. an Apprentice Chef goal - read 5 saved recipes and get a reward, get points/gems which you can exchange for objects for your Reward Corner).
+
+![](/images/onboarding-1.png)
+
+![](/images/onboarding-2.png)
+
+The changed IA would look like this:
 
 ![](/images/ia-revised.png)
 
 Two options for **adding clarity, user control and ease to the EXPLORE** action (opening a random saved link).
 
-1) Adding a clearer, simpler EXPLORE call-to-action on the homepage. The individual links and active goals collection are already visibe there.
-
-2) Adding a page for the EXPLORE action. With overview of the available articles and better visibility and control.
+1. Adding a clearer, simpler EXPLORE call-to-action on the homepage. The individual links and active goals collection are already visibe there.
+2. Adding a page for the EXPLORE action. With overview of the available articles and better visibility and control.
 
 Using the Crazy Eights technique, I sketched multiple ideas.
 
@@ -37,6 +41,10 @@ Using the Crazy Eights technique, I sketched multiple ideas.
 I ended up choosing option 1.
 
 I'm always going back to my initial requirements - as seen with competitors like Toby, it's really important that the new tab page opens and loads quickly. So that will be the first thing to check when developing.
+
+Mapping out requirements (user actons and behavioural interventions) and features also allowed me a clearer view of possible actions for each screen.
+
+![](/images/desktop-1.png)
 
 
 
