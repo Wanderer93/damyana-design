@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Creating a Chrome extension
+title: Testing wireframes, starting to code a Chrome extension
 metaTitle: Creating a Chrome extension
 metaDesc: Creating a Chrome extension
 date: 2022-05-18T18:10:58.702Z
