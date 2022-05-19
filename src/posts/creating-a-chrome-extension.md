@@ -13,13 +13,25 @@ Survey questions before and after the test.
 
 Version of the homepage.
 
-![](/images/homepage.png)
-
 ![](/images/homepage-sketch.png)
 
-After iterating on the wireframes, I started coding an extension prototype.
 
 
+![](/images/homepage.png)
+
+Heatmaps and screen recordings from tests helped me make changes.
+
+![](/images/homepage-1-.png)
+
+Of 4 testers for the latest pt\rototype, turns out nobody clicked on the checkbox (for when you've read or viewed a link).
+
+![](/images/desktop_-_7.png)
+
+![](/images/desktop_-_1.png)
+
+![](/images/2022-05-19-20-20-02.gif)
+
+While iterating on the wireframes, I started coding an extension prototype.
 
 ## Bibliography
 
